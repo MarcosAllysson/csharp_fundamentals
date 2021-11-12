@@ -1,0 +1,16 @@
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/bin/Debug/net5.0/LearningDateTime
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/bin/Debug/net5.0/LearningDateTime.deps.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/bin/Debug/net5.0/LearningDateTime.runtimeconfig.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/bin/Debug/net5.0/LearningDateTime.runtimeconfig.dev.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/bin/Debug/net5.0/LearningDateTime.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/bin/Debug/net5.0/ref/LearningDateTime.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/bin/Debug/net5.0/LearningDateTime.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/LearningDateTime.csproj.AssemblyReference.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/LearningDateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/LearningDateTime.AssemblyInfoInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/LearningDateTime.AssemblyInfo.cs
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/LearningDateTime.csproj.CoreCompileInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/LearningDateTime.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/ref/LearningDateTime.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/LearningDateTime.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningDateTime/obj/Debug/net5.0/LearningDateTime.genruntimeconfig.cache

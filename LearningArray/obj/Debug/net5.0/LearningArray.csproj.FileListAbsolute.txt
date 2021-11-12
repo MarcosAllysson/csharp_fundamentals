@@ -1,0 +1,16 @@
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/bin/Debug/net5.0/LearningArray
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/bin/Debug/net5.0/LearningArray.deps.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/bin/Debug/net5.0/LearningArray.runtimeconfig.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/bin/Debug/net5.0/LearningArray.runtimeconfig.dev.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/bin/Debug/net5.0/LearningArray.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/bin/Debug/net5.0/ref/LearningArray.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/bin/Debug/net5.0/LearningArray.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/LearningArray.csproj.AssemblyReference.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/LearningArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/LearningArray.AssemblyInfoInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/LearningArray.AssemblyInfo.cs
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/LearningArray.csproj.CoreCompileInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/LearningArray.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/ref/LearningArray.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/LearningArray.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningArray/obj/Debug/net5.0/LearningArray.genruntimeconfig.cache

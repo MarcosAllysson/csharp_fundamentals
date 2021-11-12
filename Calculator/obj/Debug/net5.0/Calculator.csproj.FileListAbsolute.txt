@@ -1,0 +1,16 @@
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/bin/Debug/net5.0/Calculator
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/bin/Debug/net5.0/Calculator.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/bin/Debug/net5.0/Calculator.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/Calculator.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/Calculator.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache

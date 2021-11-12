@@ -1,0 +1,16 @@
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache

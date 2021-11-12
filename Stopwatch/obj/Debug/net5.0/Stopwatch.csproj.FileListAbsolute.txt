@@ -1,0 +1,16 @@
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/bin/Debug/net5.0/Stopwatch
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/bin/Debug/net5.0/Stopwatch.deps.json
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.json
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.dev.json
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/bin/Debug/net5.0/Stopwatch.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/bin/Debug/net5.0/ref/Stopwatch.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/bin/Debug/net5.0/Stopwatch.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.AssemblyReference.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfoInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfo.cs
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/Stopwatch.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/ref/Stopwatch.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/Stopwatch.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/Stopwatch/obj/Debug/net5.0/Stopwatch.genruntimeconfig.cache

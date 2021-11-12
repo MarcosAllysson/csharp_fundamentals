@@ -1,0 +1,16 @@
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/bin/Debug/net5.0/FormatingMoney
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/bin/Debug/net5.0/FormatingMoney.deps.json
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/bin/Debug/net5.0/FormatingMoney.runtimeconfig.json
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/bin/Debug/net5.0/FormatingMoney.runtimeconfig.dev.json
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/bin/Debug/net5.0/FormatingMoney.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/bin/Debug/net5.0/ref/FormatingMoney.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/bin/Debug/net5.0/FormatingMoney.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/FormatingMoney.csproj.AssemblyReference.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/FormatingMoney.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/FormatingMoney.AssemblyInfoInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/FormatingMoney.AssemblyInfo.cs
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/FormatingMoney.csproj.CoreCompileInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/FormatingMoney.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/ref/FormatingMoney.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/FormatingMoney.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/FormatingMoney/obj/Debug/net5.0/FormatingMoney.genruntimeconfig.cache

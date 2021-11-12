@@ -1,0 +1,16 @@
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/bin/Debug/net5.0/LearningExceptions
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/bin/Debug/net5.0/LearningExceptions.deps.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/bin/Debug/net5.0/LearningExceptions.runtimeconfig.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/bin/Debug/net5.0/LearningExceptions.runtimeconfig.dev.json
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/bin/Debug/net5.0/LearningExceptions.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/bin/Debug/net5.0/ref/LearningExceptions.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/bin/Debug/net5.0/LearningExceptions.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/LearningExceptions.csproj.AssemblyReference.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/LearningExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/LearningExceptions.AssemblyInfoInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/LearningExceptions.AssemblyInfo.cs
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/LearningExceptions.csproj.CoreCompileInputs.cache
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/LearningExceptions.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/ref/LearningExceptions.dll
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/LearningExceptions.pdb
+/home/marcos/Documents/Developer/C# | ASP.NET/LearningExceptions/obj/Debug/net5.0/LearningExceptions.genruntimeconfig.cache
