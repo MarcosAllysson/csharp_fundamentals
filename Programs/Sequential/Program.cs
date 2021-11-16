@@ -1,4 +1,5 @@
 ﻿using System;
+using Sequential.ListOfProgramns;
 
 namespace Sequential
 {
@@ -14,6 +15,7 @@ namespace Sequential
             // Five.ConvertMetersToCentimeters();
             // Six.CalculateCircleArea();
             // Seven.AreaSquare();
+            Eight.CalculateSalary();
         }
     }
 }
