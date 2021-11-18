@@ -1,3 +1,5 @@
 .idea
 .vscode
 Courses.txt
+bin/
+obj/
